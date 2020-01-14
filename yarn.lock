@@ -1229,34 +1229,10 @@
     url-parse "^1.1.7"
     webfontloader "^1.6.27"
 
-"@types/google-maps@*":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@types/google-maps/-/google-maps-3.2.1.tgz#68b84f74773960fbf4c76e2d2bc62838b8cd5026"
-  integrity sha512-0JeYMqVUeolC2hC1v8s49vjg5zt/tQXDzzcZfWxzx8Kcu1xDSpULFkhI33CIUZ/r8PmGvrud9EEZqFhJlOE4/A==
-  dependencies:
-    "@types/googlemaps" "*"
-
-"@types/googlemaps@*", "@types/googlemaps@^3.39.1":
-  version "3.39.1"
-  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.39.1.tgz#8844d7e4163dff2352733910d1bd78e053a60ec9"
-  integrity sha512-a6o1F2Ge3ElxMV5DcLlHJo2/jPX/SayySFY8Hn8qYJ+8sYU2LHlW78YeYXb4mbdyw/2hjYTnPrQfYl5VXcgdWA==
-
-"@types/markerclustererplus@^2.1.33":
-  version "2.1.33"
-  resolved "https://registry.yarnpkg.com/@types/markerclustererplus/-/markerclustererplus-2.1.33.tgz#0542a2fabdf46fa474a3de00df5b0b399f5694a5"
-  integrity sha512-ZDxsLUp8BmK9MVZZeQVDDzVrEXgRL0021AQcfXqfreFhdfZ9+PS0P6o4nZBvoIVYTmGSBemdCdI6mL6hf9yWvg==
-  dependencies:
-    "@types/google-maps" "*"
-
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
-
-"@types/react@^15.6.28":
-  version "15.6.28"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.6.28.tgz#fd1e2116828c1b229b3354b6557af9828435bb2b"
-  integrity sha512-xqkECNDgjbHK2Ak99XRaK07pBq8jpbnpxfY8MNSaSbQxzksX782ALRuU6J9zjKI5PmJdRTYOLfa4KjnJYxmHfw==
 
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
