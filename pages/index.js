@@ -3,13 +3,11 @@ import Main from '../components/Main'
 import Footer from '../components/Footer'
 import stylesheet from '../styles/components/main.scss'
 
-const Index = () => (
+export default () => (
   <>
-    <style dangerouslySetInnerHTML={{__html: stylesheet }} />
+    <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
     <Header />
     <Main />
     <Footer />
   </>
 )
-
-export default Index
